@@ -20,9 +20,14 @@ files for this are included in this project.
 Suggested Tools
 
 Temperature controlled soldering irong - Hakko 888, Pace ADS-200, or similar
-Tweezers - SA-00 fine point
+Tweezers - SA-00 fine point stainless steel
 Crimp tool - Molex KK series (see warning)
-
+Diagonal Cutter - Xuron TLXURON170II or Swanstrom S515E recommended or
+similiar
+Wire stripper - For the 32AWG wire we recommend a V-Notch stripper that came
+in the Radio Shack wirewrap tool 275-1570. We believe Jameco 2150361 is a the
+same device. Altneratively we have tested Klein Tools 11057.
+Scalple handle and blade - #11 and matching handle
 
 Warning: The matching of the Molex connector housings to pins is
 ultraspecific. You may notice a number of pairings that fit together and work
