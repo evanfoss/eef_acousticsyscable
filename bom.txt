@@ -4,7 +4,7 @@ Quant	Part#		Distributor #	Vendor		Distributor	Description
 1	22-01-2045	WM2614-ND	Molex		Digikey		Molex female connector housing 4 position 0.1" spacing
 4					Molex		Digikey		Molex female connector crimp pins 0.1" spacing
 1	30-00218	T1245-305-ND	Tensility	Digikey		1M of 4 conductor (32AWG) + sheild cable (note 1)
-2							Digikey		BNC crimped RG-174 coaxial cable. (note 2)
+2	115101-02-24.00	ACX2316-ND	Amphenol RF	Digikey		BNC crimped RG-174 coaxial cable. (note 2)
 1	N.A.		N.A.		N.A.		*		Custom adapter PCB (note 3)
 1					NTE		Digikey		Heat Shrink
 1	RTV748		74915A654	Dow/Corning	McmasterCarr	Electrical Grade Silicone Sealant
