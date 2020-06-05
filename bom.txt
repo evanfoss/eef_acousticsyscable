@@ -2,7 +2,7 @@
 Bill of Matterials
 Quant	Part#		Distributor #	Vendor		Distributor	Description
 1	22-01-2045	WM2614-ND	Molex		Digikey		Molex female connector housing 4 position 0.1" spacing
-4					Molex		Digikey		Molex female connector crimp pins 0.1" spacing
+4	08-55-0102	WM2312-ND	Molex		Digikey		Molex female connector crimp pins 0.1" spacing
 1	30-00218	T1245-305-ND	Tensility	Digikey		1M of 4 conductor (32AWG) + sheild cable (note 1)
 2	115101-02-24.00	ACX2316-ND	Amphenol RF	Digikey		BNC crimped RG-174 coaxial cable. (note 2)
 1	N.A.		N.A.		N.A.		*		Custom adapter PCB (note 3)
@@ -17,7 +17,7 @@ unit is 1.
 3. This part is designed by us and custom manufactured to our design. The
 files for this are included in this project.
 
-Suggested Tools
+Tools
 
 Temperature controlled soldering irong - Hakko 888, Pace ADS-200, or similar
 Tweezers - SA-00 fine point stainless steel
@@ -28,6 +28,8 @@ Wire stripper - For the 32AWG wire we recommend a V-Notch stripper that came
 in the Radio Shack wirewrap tool 275-1570. We believe Jameco 2150361 is a the
 same device. Altneratively we have tested Klein Tools 11057.
 Scalple handle and blade - #11 and matching handle
+3rd hand fixture - These are common tools with 2 clip leads on a weight used
+to hold items while soldering.
 
 Warning: The matching of the Molex connector housings to pins is
 ultraspecific. You may notice a number of pairings that fit together and work
@@ -38,5 +40,10 @@ lately getting the hand crimp tools for this to work lately. It appears the
 quality control of them has declined at Molex IMHO and we suggest that if you
 have repeated trouble inserting the crimped pins you buy another tool and try
 again. Sorry.
+
+Other consumables
+
+1 sheet of waxed paper put under items with curing RTV on them
+1 1" of 1/2" wide masking tape to hold items
 
 
