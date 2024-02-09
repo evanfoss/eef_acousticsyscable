@@ -1,9 +1,11 @@
-EPL Acoustic System Cable
+EEF Acoustic System Cable
 ===================================
 
 It might seem silly to have a whole repo just for the assembly of a cable but the cable is share among various versions of the device and it's assembly has been through several evolution's.
 
 In the beginning the cable was just a BNC cable cut in half with a connector at the spliced ends. This was cheap and easy to assemble but users wanted the cable to be more flexible and the cable stiffness combined with torque from the users positioning correlated with a higher failure rate of the connector. Seeing that it was not practical to change all the acoustic system connectors it was decided to change the wire used to distribute bending forces better. It sounds so simple but it did not work out so easily. 
+
+This is a fork of the original project here : https://github.com/EPL-Engineering/epl_acousticsyscable
 
 Assembly Process
 ===================================
